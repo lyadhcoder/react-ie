@@ -104,8 +104,7 @@ export class PageContact extends Component {
           <div className="contact-form-wrapper">
             <h3><FontAwesomeIcon icon={faEnvelope}/> Send Us Message</h3>
             <p><FontAwesomeIcon icon={faPen}/> Get In Touch & Drop Us a Line.</p>
-            <div className="typeform-widget" data-transparency={100} style={{width: '100%', height: '50px'}}>
-            </div>            
+            <div className="cui-embed" style={{height: '400px', width: '100%'}} data-cui-uid="pVZb5q" data-cui-mode="widget" data-cui-pill-button-color="#0000FF" data-cui-transparency={100} />
           </div>
           {/* Contact Form End */}
         </div>
@@ -113,10 +112,6 @@ export class PageContact extends Component {
     </div>
   </section>
   {/* Contact Info End */}
-  {/* Start Map */}
-  <div className="map" data-trigger="map" data-map-options="{&quot;latitude&quot;: &quot;40.6785635&quot;, &quot;longitude&quot;: &quot;-73.9664109&quot;, &quot;zoom&quot;: &quot;11&quot;}">
-  </div>
-  {/* End Map */}
   <PageFooter/>
 </div>
 
