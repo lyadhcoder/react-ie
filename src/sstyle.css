@@ -1,0 +1,41 @@
+﻿.banner .banner-content p{
+  font-size: 20px; 
+}
+.list-check li .fa{
+  color: #fb4275;
+}
+.hc:link {
+  color: black;
+}
+.hc:visited {
+  color: black;
+}
+.fi{
+  margin-right: 5px;
+  margin-bottom: 1px;
+}
+.fl{
+  font-size: 13px; 
+}
+.jsonicon{
+  margin-top: -40px;
+  margin-bottom: -13px;
+  margin-left: 50px;
+  -webkit-transition: 0.3s linear;
+  -o-transition: 0.3s linear;
+  transition: 0.3s linear;
+  width: 50%;
+}
+.jsonicon4{
+  margin-top: -75px;
+  margin-bottom: -75px;
+  -webkit-transition: 0.3s linear;
+  -o-transition: 0.3s linear;
+  transition: 0.3s linear;
+  width: 4em;
+}
+.ErrorAnimation{
+  -webkit-transition: 0.3s linear;
+  -o-transition: 0.3s linear;
+  transition: 0.3s linear;
+}
