@@ -47,6 +47,7 @@ export class PageFooter extends Component {
               <li><Link to="/About"><FontAwesomeIcon icon={faCannabis} className="fi"/> About Us</Link></li>
               <li><Link to="/Contact"><FontAwesomeIcon icon={faCannabis} className="fi"/> Contact Us</Link></li>
               <li><Link to="/Gallery"><FontAwesomeIcon icon={faCannabis} className="fi"/> Gallery</Link></li>
+              <li><Link to="/Payment"><FontAwesomeIcon icon={faCannabis} className="fi"/> Payment</Link></li>
               <li className="fl"><a href="https://g.page/indranielectronics" target='_blank' rel="noopener noreferrer"><FontAwesomeIcon icon={faCannabis} className="fi"/> Review Us on Google</a></li>
             </ul>
           </div>

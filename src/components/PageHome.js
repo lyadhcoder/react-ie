@@ -93,11 +93,11 @@ import PageFooter from './PageFooter';
                     <div className="banner-content text-white text-center">
                       <h1>Indrani Electronics</h1>
                       <p>Indrani Electronics Believe Customer Satisfaction. We Are Very Old And Popular Showroom Of Rampurhat. Great Selection. Friendly Services.</p>
+                      <a className="banner-btn example_d" href="/Payment">Payment</a>
                     </div>                    
                   </div>
                 </div>
               </div>
-              <img src="assets/img/shapes/slider-shape.svg" className="svg wave-shape" alt="" />
             </section>
             <section className="pb-90 feature-style-two">
               <div className="container">

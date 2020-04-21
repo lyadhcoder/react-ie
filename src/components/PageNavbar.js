@@ -29,6 +29,9 @@ export class PageNavbar extends Component {
                   <li className="nav-item">
                     <NavLink className="nav-link" to="/Contact">Contact</NavLink>
                   </li>
+                  <li className="nav-item">
+                    <NavLink className="nav-link" to="/Payment">Payment</NavLink>
+                  </li>
                 </ul>
               </div>
             </nav>

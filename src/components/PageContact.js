@@ -103,7 +103,7 @@ export class PageContact extends Component {
           {/* Contact Form Begin */}
           <div className="contact-form-wrapper">
             <h3><FontAwesomeIcon icon={faEnvelope}/> Send Us Message</h3>
-            <p><FontAwesomeIcon icon={faPen}/> Get In Touch & Drop Us a Line.</p>
+            <p><FontAwesomeIcon icon={faPen}/> Get In Touch & Drop Us a Line. <br/> Incase Form is not Load, Refresh This Page.</p>
             <div className="cui-embed" style={{height: '400px', width: '100%'}} data-cui-uid="pVZb5q" data-cui-mode="widget" data-cui-pill-button-color="#0000FF" data-cui-transparency={100} />
           </div>
           {/* Contact Form End */}
