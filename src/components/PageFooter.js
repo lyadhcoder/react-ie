@@ -26,7 +26,6 @@ export class PageFooter extends Component {
               <div className="single-info">
                 <span>Phone</span>
                 <p><a href="tel:+918250457023">+91 8250457023</a>
-                  <a href="tel:+919153488183">+91 9153488183</a>
                   <a href="tel:+919933333859">+91 9933333859</a>
                   <a href="tel:+919153488184">+91 9153488184</a></p>
               </div>
