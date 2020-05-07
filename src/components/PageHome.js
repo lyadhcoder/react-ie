@@ -165,7 +165,7 @@ import PageFooter from './PageFooter';
                 <div className="row align-items-center">
                   <div className="col-lg-3 col-sm-6">
                     <div className="single-counter text-center text-white">
-                      <h2 className="count"><span>20+</span></h2>
+                      <h2 className="count"><span>30+</span></h2>
                       <p>Years of experience</p>
                     </div>
                   </div>
